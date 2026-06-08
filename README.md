@@ -1,5 +1,5 @@
-Sales & Revenue Analysis Dashboard
+**Sales & Revenue Analysis Dashboard**
 
-##  Objective
+##  **Project Objective**
 
-The objective of this project is to develop an interactive **Sales & Revenue Analysis Dashboard** that transforms raw sales data into meaningful business insights. The dashboard helps track key performance indicators (KPIs), analyze revenue trends, identify top-performing products, and evaluate overall sales performance through dynamic charts, filters, and slicers, enabling data-driven decision-making and effective business reporting.
+The **Sales & Revenue Analysis Dashboard** is designed to transform raw sales data into actionable business insights through interactive visualizations and KPI tracking. The project focuses on analyzing sales performance, monitoring revenue trends, identifying top-performing products, and evaluating regional performance using dynamic charts, filters, and slicers to support data-driven decision-making and effective business reporting.
