@@ -29,3 +29,14 @@ The **Sales & Revenue Analysis Dashboard** is designed to transform raw sales da
 
 <img width="910" height="747" alt="Screenshot 2026-06-08 161328" src="https://github.com/user-attachments/assets/546d0014-5ee0-4378-a5ce-04b38e72445e" />
 
+##  Project Insights
+- Sales performance showed clear trends across different time periods.
+- A small group of products contributed the majority of total revenue.
+- Certain categories consistently outperformed others in sales and profit.
+- Regional analysis highlighted key markets driving business growth.
+- KPI tracking enabled quick identification of performance patterns and opportunities.
+
+ ##  Final Conclusion
+- The Sales & Revenue Analysis Dashboard successfully transformed raw sales data into actionable business insights through interactive visualizations and KPI monitoring. By analyzing sales trends, product performance, and regional contributions, the dashboard provides a comprehensive view of business performance and supports data-driven decision-making for improved growth and profitability.
+
+
