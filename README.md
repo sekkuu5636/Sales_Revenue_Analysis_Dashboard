@@ -1,2 +1,2 @@
-# Sales_Revenue_Analysis_Dashboard
-Developed an interactive Sales &amp; Revenue Analysis Dashboard in Excel to monitor KPIs, revenue trends, product performance, and regional sales insights. Utilized Pivot Tables, Pivot Charts, Filters, and Slicers to transform raw sales data into actionable business intelligence, enabling efficient reporting and data-driven decision-making.
+Sales & Revenue Analysis Dashboard
+An interactive Sales & Revenue Analysis Dashboard built to transform raw sales data into actionable business insights. This project enables users to monitor key performance indicators (KPIs), analyze revenue trends, identify top-performing products, and evaluate sales performance across multiple dimensions through dynamic visualizations.
