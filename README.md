@@ -7,6 +7,12 @@ The **Sales & Revenue Analysis Dashboard** is designed to transform raw sales da
 ## Dataset used
 - <a href="https://github.com/sekkuu5636/Sales_Revenue_Analysis_Dashboard/blob/main/Sales_Revenue_Analysis_Dashboard.xlsx">Dataset</a>
 
+##  Tools Used
+- Microsoft Excel
+- KPI Dashboard
+- Data Visualization
+- Data Analysis
+
 ##  Business Questions & KPIs
 
 ### Key Performance Indicators (KPIs)
