@@ -26,8 +26,8 @@ The **Sales & Revenue Analysis Dashboard** is designed to transform raw sales da
 - Analyzed trends and identified business opportunities
 
 ## Dashboard
+<img width="985" height="748" alt="Screenshot 2026-06-08 194219" src="https://github.com/user-attachments/assets/07fa4f6e-77ef-4e45-874a-4bb3331a855a" />
 
-<img width="910" height="747" alt="Screenshot 2026-06-08 161328" src="https://github.com/user-attachments/assets/546d0014-5ee0-4378-a5ce-04b38e72445e" />
 
 ##  Project Insights
 - Sales performance showed clear trends across different time periods.
