@@ -23,7 +23,7 @@ The **Sales & Revenue Analysis Dashboard** is designed to transform raw sales da
 -  Total Orders
 -  Top-Selling Products
 
--  Dasboard Interaction <a href="https://github.com/sekkuu5636/Sales_Revenue_Analysis_Dashboard/blob/main/Screenshot%202026-06-08%20194159.png">View Dashboard</a>
+-  Dasboard Interaction <a href="https://github.com/sekkuu5636/Sales_Revenue_Analysis_Dashboard/blob/main/Screenshot%202026-06-08%20194219.png">View Dashboard</a>
 
 ## Process
 - Cleaned and organized the sales dataset
