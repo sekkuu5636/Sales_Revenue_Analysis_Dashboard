@@ -45,4 +45,7 @@ The **Sales & Revenue Analysis Dashboard** is designed to transform raw sales da
  ##  Final Conclusion
 - The Sales & Revenue Analysis Dashboard successfully transformed raw sales data into actionable business insights through interactive visualizations and KPI monitoring. By analyzing sales trends, product performance, and regional contributions, the dashboard provides a comprehensive view of business performance and supports data-driven decision-making for improved growth and profitability.
 
+  ## Author
+  Sakunthala Gosala
+
 
